@@ -1,3 +1,8 @@
 *.tfstate
 *.tfstate.backup
 .terraform.tfstate.lock.info
+.claude/
+.terraform/
+attack-results/
+*.tfvars
+.terraform.lock.hcl

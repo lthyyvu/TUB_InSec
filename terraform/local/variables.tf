@@ -1,7 +1,7 @@
 variable "project_id" {
   description = "The ID of your Google Cloud project"
   type        = string
-  default     = "peak-sorter-460917-b8"
+  default     = "honeypots-501606"
 }
 
 variable "region" {
