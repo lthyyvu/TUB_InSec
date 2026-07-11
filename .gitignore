@@ -6,3 +6,5 @@
 attack-results/
 *.tfvars
 .terraform.lock.hcl
+honeypot-logs.tar.gz
+__pycache__
